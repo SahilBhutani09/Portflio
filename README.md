@@ -1,6 +1,6 @@
 Hi, 
 
-My name is Sahil Bhutani
+My name is Sahil.
 
 I am a seasoned analytics lead with 8+ years of experience in advanced statistical modeling, data pipeline development, project and stakeholder management. My role sits at the intersection of Marketing, Product, Engineering, and Business, translating complex data into insights that drive business decisions. 
 

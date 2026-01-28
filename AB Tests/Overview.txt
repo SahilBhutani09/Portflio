@@ -4,11 +4,10 @@ By comparing two versions of a webpage or app screen, you can determine which on
 Here’s a simple guide to conducting an AB test:
 1. Define Your Goal:
 2. Identify what you want to achieve with the AB test, such as increasing click-through rates, sign-ups, or sales.
-2. Create Variations:
-2. Create Variations:
+3. Create Variations:
    - Version A: The current version (control).
    - Version B: The modified version (variant) with changes you want to test (e.g., different headlines, images, or call-to-action buttons).
-3. Split Your Audience:
+4. Split Your Audience:
     - Randomly divide your audience into two groups: one group sees Version A, and the other sees Version B.
 4. Run the Test:
 

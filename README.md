@@ -19,4 +19,4 @@ My repository consists of some of the models that I have worked on so far expeci
 
 What's next -> Currently I am sharpening my skills in model deployment via AWS 
 
-How to reach me: sahilbhutani.05@gmail.com | Toronto, Canada | +1 4372998624 | Let’s connect! 🚀
+How to reach me: sahilbhutani.05@gmail.com | Toronto, Canada | Let’s connect! 🚀
